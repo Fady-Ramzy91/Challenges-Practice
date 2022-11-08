@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C751FDC2291A90170037B748 /* AverageBigSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = C751FDC1291A90170037B748 /* AverageBigSum.swift */; };
 		C7E010AE2589381800103A8B /* TimeConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E010AD2589381800103A8B /* TimeConversion.swift */; };
 		C7E010B32589384C00103A8B /* FlipCoin.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E010B22589384C00103A8B /* FlipCoin.swift */; };
 		C7E010B82589386E00103A8B /* Min-Max-Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E010B72589386E00103A8B /* Min-Max-Sum.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C751FDC1291A90170037B748 /* AverageBigSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageBigSum.swift; sourceTree = "<group>"; };
 		C7E010AD2589381800103A8B /* TimeConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeConversion.swift; sourceTree = "<group>"; };
 		C7E010B22589384C00103A8B /* FlipCoin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipCoin.swift; sourceTree = "<group>"; };
 		C7E010B72589386E00103A8B /* Min-Max-Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Min-Max-Sum.swift"; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				C7E010D1258A880200103A8B /* BirthdayCake.swift */,
 				C7E010B22589384C00103A8B /* FlipCoin.swift */,
 				C7E010AD2589381800103A8B /* TimeConversion.swift */,
+				C751FDC1291A90170037B748 /* AverageBigSum.swift */,
 			);
 			path = Challenges;
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C751FDC2291A90170037B748 /* AverageBigSum.swift in Sources */,
 				C7E010D9258B6CF300103A8B /* CamelCase.swift in Sources */,
 				C7E010AE2589381800103A8B /* TimeConversion.swift in Sources */,
 				C7E5B9A8257E52A000194739 /* ViewController.swift in Sources */,
