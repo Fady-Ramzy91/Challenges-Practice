@@ -4,7 +4,6 @@
 //
 //  Created by Fady Ramzy on 12/15/20.
 
-// This problem powered by: HackerRank
 // Problem link: https://www.hackerrank.com/challenges/time-conversion/problem?h_r=internal-search
 
 import Foundation

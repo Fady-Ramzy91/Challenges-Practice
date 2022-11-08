@@ -8,13 +8,10 @@
 import Foundation
 
 func flipCoin(with numberOfFlips: Int) {
-    
     // This to make the probability 50% for (heads) & 50% for (traits)
-    
     let divisionNumber = Double(numberOfFlips/2)
     
     // This refers to the number of flipping
-    
     for _ in 0..<numberOfFlips {
         // This is a random number generated from 0 to the number
         
