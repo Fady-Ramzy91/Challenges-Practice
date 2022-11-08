@@ -10,6 +10,5 @@
 import Foundation
 
 func camelcase(s: String) -> Int {
-    let arrayOfString = s.split(whereSeparator: { $0.isUppercase })
-    return arrayOfString.count
+    return s.split(whereSeparator: { $0.isUppercase }).count
 }
