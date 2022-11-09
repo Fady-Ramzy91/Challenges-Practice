@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		C751FDC2291A90170037B748 /* AverageBigSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = C751FDC1291A90170037B748 /* AverageBigSum.swift */; };
 		C751FDC6291A945B0037B748 /* DiagonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = C751FDC5291A945B0037B748 /* DiagonalDifference.swift */; };
+		C751FDC8291BD9A90037B748 /* PlusMinus.swift in Sources */ = {isa = PBXBuildFile; fileRef = C751FDC7291BD9A90037B748 /* PlusMinus.swift */; };
 		C7E010AE2589381800103A8B /* TimeConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E010AD2589381800103A8B /* TimeConversion.swift */; };
 		C7E010B32589384C00103A8B /* FlipCoin.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E010B22589384C00103A8B /* FlipCoin.swift */; };
 		C7E010B82589386E00103A8B /* Min-Max-Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E010B72589386E00103A8B /* Min-Max-Sum.swift */; };
@@ -44,6 +45,7 @@
 /* Begin PBXFileReference section */
 		C751FDC1291A90170037B748 /* AverageBigSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageBigSum.swift; sourceTree = "<group>"; };
 		C751FDC5291A945B0037B748 /* DiagonalDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagonalDifference.swift; sourceTree = "<group>"; };
+		C751FDC7291BD9A90037B748 /* PlusMinus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusMinus.swift; sourceTree = "<group>"; };
 		C7E010AD2589381800103A8B /* TimeConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeConversion.swift; sourceTree = "<group>"; };
 		C7E010B22589384C00103A8B /* FlipCoin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipCoin.swift; sourceTree = "<group>"; };
 		C7E010B72589386E00103A8B /* Min-Max-Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Min-Max-Sum.swift"; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				C7E010AD2589381800103A8B /* TimeConversion.swift */,
 				C751FDC1291A90170037B748 /* AverageBigSum.swift */,
 				C751FDC5291A945B0037B748 /* DiagonalDifference.swift */,
+				C751FDC7291BD9A90037B748 /* PlusMinus.swift */,
 			);
 			path = Challenges;
 			sourceTree = "<group>";
@@ -299,6 +302,7 @@
 				C7E010D9258B6CF300103A8B /* CamelCase.swift in Sources */,
 				C7E010AE2589381800103A8B /* TimeConversion.swift in Sources */,
 				C7E5B9A8257E52A000194739 /* ViewController.swift in Sources */,
+				C751FDC8291BD9A90037B748 /* PlusMinus.swift in Sources */,
 				C7E5B9A4257E52A000194739 /* AppDelegate.swift in Sources */,
 				C751FDC6291A945B0037B748 /* DiagonalDifference.swift in Sources */,
 				C7E010B32589384C00103A8B /* FlipCoin.swift in Sources */,
