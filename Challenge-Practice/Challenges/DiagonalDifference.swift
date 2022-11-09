@@ -4,7 +4,6 @@
 //
 //  Created by Fady Ramzy on 08/11/2022.
 //
-
 // Problem link: https://www.hackerrank.com/challenges/diagonal-difference
 
 import Foundation
@@ -19,6 +18,6 @@ func diagonalDifference(arr: [[Int]]) -> Int {
         sum2 += arr[index][reverseCount]
         reverseCount-=1
     }
-    
+
     return abs(sum1 - sum2)
 }
